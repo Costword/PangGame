@@ -5,3 +5,4 @@
 Xcode版本11.2.1 , sdl2官方地址 https://www.libsdl.org/  我是用的是2.0.1版本的
 
 如果编译不通过尝试设置一下General->frameworkAndLibrary 设置所引入的framework为Embed&Sign
+![image](https://github.com/Costword/PangGame/blob/master/pong.png)
